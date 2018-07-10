@@ -26,6 +26,11 @@ The TACC Cloud APIs include Agave API, offering Science-as-a-Service; Reactors, 
     agave/introduction/status-codes
     agave/introduction/best-practices
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Agave Jobs
+
+    agave/jobs/job-submission
 
 
 Get Help
