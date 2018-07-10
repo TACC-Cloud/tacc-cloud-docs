@@ -23,7 +23,8 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 # -- Project information -----------------------------------------------------
 
 project = 'TACC Cloud APIs'
-copyright = '2018, TACC'
+copyright = '2018, Texas Advanced Computing Center, University of Texas, Austin'
+author = 'Erik Ferlanti'
 
 # The short X.Y version
 version = '1.0'
