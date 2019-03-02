@@ -18,7 +18,7 @@ The TACC Cloud APIs include Agave API, offering Science-as-a-Service; Reactors, 
    
    Troubleshooting Guide <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/troubleshooting-guide.rst>
    
-   Request Forms <link> 
+   Request Forms <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/requestforms.rst>
    TACC Cloud Staff <link> 
    
 
