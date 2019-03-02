@@ -23,7 +23,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **500 error stemming from Upstream server**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
 
     The most common version of this error is: The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request. This error tends to stem from the SSH keys that the storage system is registered with. You can check your SSH keys with a couple of different tests:
 
@@ -44,7 +44,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Password not accepted but I KNOW it’s right**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
     Go to https://<tenant base url>/store and login with your credentials. If you cannot login, please contact CICsupport with one of the above methods. If you can login, Go to My Scriptions and click on the Client drop down box. If you do not see a client in this box titled “DefaultApplication”, run the following command on the command line:
 
   curl -sku "<username>" -X POST -d "clientName=DefaultApplication" https://<tenant base url>/clients/v2
@@ -60,7 +60,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Password not accepted but I KNOW it’s right**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
     Go to https://<tenant base url>/store and login with your credentials. If you cannot login, please contact CICsupport with one of the above methods. If you can login, Go to My Scriptions and click on the Client drop down box. If you do not see a client in this box titled “DefaultApplication”, run the following command on the command line:
 
   curl -sku "<username>" -X POST -d "clientName=DefaultApplication" https://<tenant base url>/clients/v2
@@ -77,7 +77,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Your outputs are failing to archive**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
     Check you job.json to confirm that you do or do not have archive turned on as expected. Then, run the following command:
 
     curl -k -H “Authorization: Bearer $yourtoken” https://<tenant base url>/files/v2/listings/system/<system id>/<enter archive path here>
@@ -95,7 +95,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Error regarding improper ssh configurations**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
      First, SSH to the host, cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access. If you are on Stampede2 and you are confident your key is correct, you can try the following steps:
 
     Move you .ssh directory to .sshold
@@ -114,7 +114,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Unable to authenticate to your system with default credential**
 
-     .. code-block:: plaintext
+.. code-block:: plaintext
       Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s definition for typos – particularly in the system’s name. There should be no trailing characters.
        
 |
