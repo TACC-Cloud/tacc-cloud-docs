@@ -14,7 +14,6 @@ If you get through these steps and are still having issues, or are not able to d
 
 .. code-block:: plaintext
 
-   jobs-pems-update -u $USERNAME -p READ_WRITE $JOB_ID
 
 .. container:: foldable
 
@@ -44,7 +43,7 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Password not accepted but I KNOW it’s right**
 
-     .. code-block:: plaintext
+      .. code-block:: curl
     Go to https://<tenant base url>/store and login with your credentials. If you cannot login, please contact CICsupport with one of the above methods. If you can login, Go to My Scriptions and click on the Client drop down box. If you do not see a client in this box titled “DefaultApplication”, run the following command on the command line:
 
   curl -sku "<username>" -X POST -d "clientName=DefaultApplication" https://<tenant base url>/clients/v2
@@ -65,9 +64,7 @@ If you get through these steps and are still having issues, or are not able to d
 
     curl -k -H “Authorization: Bearer $yourtoken” https://<tenant base url>/files/v2/listings/system/<system id>/<enter archive path here>
     If this command comes back successfully, this means you have access to the entire archive path and the entire path exists. Otherwise, you will receive an error letting you know of one of these issues.
-
-
-       
+     
 |
 
 
@@ -85,11 +82,8 @@ If you get through these steps and are still having issues, or are not able to d
     Log out and log back in
     CAREFULLY add back any keys you need into your authorized_keys file 
     Deleting the ~/.ssh directory will cause TACC’s scripts to regenerate that directory with the SSH keys it needs.
-   
-       
+         
 |
-
-
 .. container:: foldable
 
      .. container:: header
@@ -98,7 +92,7 @@ If you get through these steps and are still having issues, or are not able to d
         **Unable to authenticate to your system with default credential**
 
      .. code-block:: plaintext
-      Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s definition for typos – particularly in the system’s name. There should be no trailing characters.
+      Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is         not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s         definition for typos – particularly in the system’s name. There should be no trailing characters.
        
 |
 
