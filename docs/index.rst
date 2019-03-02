@@ -9,7 +9,7 @@ TACC Cloud APIs and Resources
 The TACC Cloud APIs include Agave API, offering Science-as-a-Service; Reactors, which are functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and allocations.
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 6
    :caption: API Reference
 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
@@ -21,7 +21,12 @@ The TACC Cloud APIs include Agave API, offering Science-as-a-Service; Reactors, 
    TACC Cloud Staff <link> 
    
 
-TACC Cloud Papers, Projects & Partnerships 
+TACC Cloud Papers, Projects & Partnerships
+==========================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Papers Reference
    
    Research Papers & Projects [UNDER CONSTRUCTION]
    Partnerships [UNDER CONSTRUCTION
