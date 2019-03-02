@@ -33,7 +33,6 @@ If you get through these steps and are still having issues, or are not able to d
 
     1. Find the root dir in your storage system’s definition. SSH to the storage system’s host and make sure you can SSH to that root dir as yourself.
     2. Check that there are no typos in your storage system definition. For example, make sure the host in your definition is the same host that your keys are on, and that your root dir is correct. 
-
 |
 
 .. container:: foldable
@@ -43,13 +42,12 @@ If you get through these steps and are still having issues, or are not able to d
         :fa:`caret-right`
         **Password not accepted but I KNOW it’s right**
 
-      .. code-block:: curl
+      .. code-block:: plaintext
     Go to https://<tenant base url>/store and login with your credentials. If you cannot login, please contact CICsupport with one of the above methods. If you can login, Go to My Scriptions and click on the Client drop down box. If you do not see a client in this box titled “DefaultApplication”, run the following command on the command line:
 
   curl -sku "<username>" -X POST -d "clientName=DefaultApplication" https://<tenant base url>/clients/v2
 
-  This will prompt you for your password. Once you’ve created this client, retry the action requiring your password from earlier.
-       
+  This will prompt you for your password. Once you’ve created this client, retry the action requiring your password from earlier.      
 |
 
 .. container:: foldable
@@ -63,8 +61,7 @@ If you get through these steps and are still having issues, or are not able to d
     Check you job.json to confirm that you do or do not have archive turned on as expected. Then, run the following command:
 
     curl -k -H “Authorization: Bearer $yourtoken” https://<tenant base url>/files/v2/listings/system/<system id>/<enter archive path here>
-    If this command comes back successfully, this means you have access to the entire archive path and the entire path exists. Otherwise, you will receive an error letting you know of one of these issues.
-     
+    If this command comes back successfully, this means you have access to the entire archive path and the entire path exists. Otherwise, you will receive an error letting you know of one of these issues.   
 |
 
 
@@ -81,8 +78,7 @@ If you get through these steps and are still having issues, or are not able to d
     Move you .ssh directory to .sshold
     Log out and log back in
     CAREFULLY add back any keys you need into your authorized_keys file 
-    Deleting the ~/.ssh directory will cause TACC’s scripts to regenerate that directory with the SSH keys it needs.
-         
+    Deleting the ~/.ssh directory will cause TACC’s scripts to regenerate that directory with the SSH keys it needs.       
 |
 .. container:: foldable
 
@@ -92,8 +88,7 @@ If you get through these steps and are still having issues, or are not able to d
         **Unable to authenticate to your system with default credential**
 
      .. code-block:: plaintext
-      Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is         not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s         definition for typos – particularly in the system’s name. There should be no trailing characters.
-       
+      Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is         not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s         definition for typos – particularly in the system’s name. There should be no trailing characters.    
 |
 
 
@@ -105,8 +100,7 @@ If you get through these steps and are still having issues, or are not able to d
         **I’m trying to import a package on JupyterHub but it says it can’t be found**
 
      .. code-block:: plaintext
-     We will likely need to install the package for you. Please head to the <link>Request Form page and send in a request.
-       
+     We will likely need to install the package for you. Please head to the <link>Request Form page and send in a request.     
 |
 
 
