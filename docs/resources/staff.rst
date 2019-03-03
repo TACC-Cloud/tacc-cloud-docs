@@ -5,7 +5,7 @@
 TACC Cloud Staff
 ================
 
-`Joe Stubbs<https://www.tacc.utexas.edu/about/directory/joe-stubbs>`_, Research Associate - Manager 
+`Joe Stubbs<https://www.tacc.utexas.edu/about/directory/joe-stubbs>`_ Research Associate - Manager 
 
 `Richard Cardone <https://www.tacc.utexas.edu/about/directory/richard-cardone>`_, Research Associate - Manager Research Engineering/Scientist Associate - Agave Technical Lead 
 
