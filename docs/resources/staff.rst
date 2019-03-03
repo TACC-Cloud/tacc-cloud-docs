@@ -23,10 +23,9 @@ TACC Cloud Staff
 
 `Anagha Jamthe <https://www.tacc.utexas.edu/about/directory/anagha-jamthe>`_ - Research Engineering/Scientist Associate, QA Engineer 
 
-`Julia Looney <https://www.tacc.utexas.edu/about/directory/julia-looney>`_ Python Developer
+`Julia Looney <https://www.tacc.utexas.edu/about/directory/julia-looney>`_ - Python Developer
 
-`Marjo Poindexter <https://www.tacc.utexas.edu/about/directory/marjo-poindexter
->`_ - Python Developer
+`Marjo Poindexter <https://www.tacc.utexas.edu/about/directory/marjo-poindexter>`_ - Python Developer
 
 `Brandi Kuritz <https://www.tacc.utexas.edu/about/directory/brandi-kuritz>`_ - Support Specialist 
 
