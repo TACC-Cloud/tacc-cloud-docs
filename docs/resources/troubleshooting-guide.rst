@@ -52,6 +52,7 @@ If you get through these steps and are still having issues, or are not able to d
   This will prompt you for your password. Once you’ve created this client, retry the action requiring your password from earlier.      
 |
 
+|
 .. container:: foldable
 
      .. container:: header
@@ -66,6 +67,7 @@ If you get through these steps and are still having issues, or are not able to d
     If this command comes back successfully, this means you have access to the entire archive path and the entire path exists. Otherwise, you will receive an error letting you know of one of these issues.   
 |
 
+|
 
 .. container:: foldable
 
@@ -82,6 +84,7 @@ If you get through these steps and are still having issues, or are not able to d
     CAREFULLY add back any keys you need into your authorized_keys file 
     Deleting the ~/.ssh directory will cause TACC’s scripts to regenerate that directory with the SSH keys it needs.       
 |
+|
 .. container:: foldable
 
      .. container:: header
@@ -92,7 +95,7 @@ If you get through these steps and are still having issues, or are not able to d
      .. code-block:: plaintext
       Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is         not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s         definition for typos – particularly in the system’s name. There should be no trailing characters.    
 |
-
+|
 
 .. container:: foldable
 
