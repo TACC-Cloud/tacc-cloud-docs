@@ -40,8 +40,6 @@ Additional information and training resources are available at the `TACC User Po
 
 We have a support team that is ready to help with questions regarding Agave and Abaco. You can contact our support team either by submitting a ticket with the link above, or via email or Slack.
 
----
-
 **Email:** CICsupport@tacc.utexas.edu
 
 **Slack:** https://tacc-cloud.slack.com/
