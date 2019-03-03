@@ -5,35 +5,35 @@
 TACC Cloud Staff
 ================
 
-`Joe Stubbs <https://www.tacc.utexas.edu/about/directory/joe-stubbs>`_ Research Associate - Manager 
+`Joe Stubbs <https://www.tacc.utexas.edu/about/directory/joe-stubbs>`_ - Research Associate, Manager 
 
-`Richard Cardone <https://www.tacc.utexas.edu/about/directory/richard-cardone>`_ Research Associate - Manager Research Engineering/Scientist Associate - Agave Technical Lead 
-
-
-`Steve Terry<https://www.tacc.utexas.edu/about/directory/steve-terry>`_ Java Middleware And Web Developer
-https://www.tacc.utexas.edu/about/directory/steve-terry
-
-`Mike Packard<https://www.tacc.utexas.edu/about/directory/mike-packard>`_ Senior Systems Administrator
+`Richard Cardone <https://www.tacc.utexas.edu/about/directory/richard-cardone>`_ - Research Associate, Manager Research Engineering/Scientist Associate, Agave Technical Lead 
 
 
-`Cody Hammock<https://www.tacc.utexas.edu/about/directory/cody-hammock>`_ Senior Software Engineer
+`Steve Terry <https://www.tacc.utexas.edu/about/directory/steve-terry>`_ - Java Middleware And Web Developer
 
 
-`Smruti Padhy<https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ Research Associate/Engineering Scientist - Senior Software Engineer 
-
-`Anagha Jamthe<https://www.tacc.utexas.edu/about/directory/anagha-jamthe>`_ Research Engineering/Scientist Associate - QA Engineer 
-
-`Julia Looney<https://www.tacc.utexas.edu/about/directory/julia-looney>`_ Python Developer
-
-`Marjo Poindexter<https://www.tacc.utexas.edu/about/directory/marjo-poindexter
->`_, Python Developer
-
-`Brandi Kuritz<https://www.tacc.utexas.edu/about/directory/brandi-kuritz>`_ Support Specialist 
+`Mike Packard <https://www.tacc.utexas.edu/about/directory/mike-packard>`_ - Senior Systems Administrator
 
 
-`Alexander Barnes<https://www.tacc.utexas.edu/about/directory/alexander-barnes>`_ Jr. DevOps Engineer
+`Cody Hammock <https://www.tacc.utexas.edu/about/directory/cody-hammock>`_ - Senior Software Engineer
 
 
-`François Halbach<https://www.tacc.utexas.edu/about/directory/francois-halbach>`_ Jr. DevOps Engineer
+`Smruti Padhy <https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ - Research Associate/Engineering Scientist, Senior Software Engineer 
+
+`Anagha Jamthe <https://www.tacc.utexas.edu/about/directory/anagha-jamthe>`_ - Research Engineering/Scientist Associate, QA Engineer 
+
+`Julia Looney <https://www.tacc.utexas.edu/about/directory/julia-looney>`_ Python Developer
+
+`Marjo Poindexter <https://www.tacc.utexas.edu/about/directory/marjo-poindexter
+>`_ - Python Developer
+
+`Brandi Kuritz <https://www.tacc.utexas.edu/about/directory/brandi-kuritz>`_ - Support Specialist 
+
+
+`Alexander Barnes <https://www.tacc.utexas.edu/about/directory/alexander-barnes>`_ - Jr. DevOps Engineer
+
+
+`François Halbach <https://www.tacc.utexas.edu/about/directory/francois-halbach>`_ - Jr. DevOps Engineer
 
 
