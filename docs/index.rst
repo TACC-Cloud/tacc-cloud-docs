@@ -28,8 +28,8 @@ TACC Cloud Papers, Projects & Partnerships
    :maxdepth: 3
    :caption: Papers Reference
    
-   Research Papers & Projects [UNDER CONSTRUCTION]
-   Partnerships [UNDER CONSTRUCTION
+   Research Papers & Projects <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/papers.rst>
+   Partnerships <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/partnerships.rst>
    Acknowledging & Citing Agave <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/citing-info.rst>
    
 
