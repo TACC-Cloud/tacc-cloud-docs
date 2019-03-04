@@ -59,17 +59,11 @@ TESTING
 
      .. code-block:: plaintext
 
-        # General grant
-        curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
-            -H "Content-Type: application/json" \
-            -X POST --data-binary '{"permission":"READ","username":"$USERNAME"}' \
-            https://agave.iplantc.org/jobs/v2/$JOB_ID/pems
+        Check you job.json to confirm that you do or do not have archive turned on as expected. Then, run the following command:
 
-        # Custom url grant
-        curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
-            -H "Content-Type: application/json" \
-            -X POST --data-binary '{"permission":"READ"}' \
-            https://agave.iplantc.org/jobs/v2/$JOB_ID/pems/$USERNAME
+        curl -k -H “Authorization: Bearer $yourtoken” https://<tenant base url>/files/v2/listings/system/<system id>/<enter archive path here>
+        If this command comes back successfully, this means you have access to the entire archive path and the entire path exists. Otherwise, you will receive an error letting you know of one of these issues.   
+        
 |
 
 .. container:: foldable
