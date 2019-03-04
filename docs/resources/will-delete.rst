@@ -13,7 +13,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show curl**
+        **500 error stemming from Upstream server**
 
      .. code-block:: plaintext
 
@@ -35,7 +35,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show json response**
+        **Password not accepted but I KNOW it’s right**
 
      .. code-block:: plaintext
 
@@ -69,7 +69,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show curl**
+        **Outputs are failing to archive**
 
      .. code-block:: plaintext
 
@@ -91,7 +91,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show json response**
+        **Error regarding improper ssh configurations**
 
      .. code-block:: plaintext
 
@@ -125,7 +125,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show curl**
+        **Unable to authenticate to your system with default credential**
 
      .. code-block:: plaintext
 
@@ -147,7 +147,7 @@ TESTING
      .. container:: header
 
         :fa:`caret-right`
-        **Show json response**
+        **I’m trying to import a package on JupyterHub but it says it can’t be found**
 
      .. code-block:: plaintext
 
