@@ -13,10 +13,10 @@ TACC Cloud Staff
 `Steve Terry <https://www.tacc.utexas.edu/about/directory/steve-terry>`_ - Java Middleware And Web Developer
 
 
-`Mike Packard <https://www.tacc.utexas.edu/about/directory/mike-packard>`_ - Senior Systems Administrator
+`Mike Packard <https://www.tacc.utexas.edu/about/directory/mike-packard>`_ - Senior DevOps Engineer
 
 
-`Cody Hammock <https://www.tacc.utexas.edu/about/directory/cody-hammock>`_ - Senior Software Engineer
+`Cody Hammock <https://www.tacc.utexas.edu/about/directory/cody-hammock>`_ - Senior DevOps Engineer
 
 
 `Smruti Padhy <https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ - Research Associate/Engineering Scientist, Senior Software Engineer 
@@ -30,9 +30,9 @@ TACC Cloud Staff
 `Brandi Kuritz <https://www.tacc.utexas.edu/about/directory/brandi-kuritz>`_ - Support Specialist 
 
 
-`Alexander Barnes <https://www.tacc.utexas.edu/about/directory/alexander-barnes>`_ - Jr. DevOps Engineer
+`Alexander Barnes <https://www.tacc.utexas.edu/about/directory/alexander-barnes>`_ - DevOps Engineer
 
 
-`François Halbach <https://www.tacc.utexas.edu/about/directory/francois-halbach>`_ - Jr. DevOps Engineer
+`François Halbach <https://www.tacc.utexas.edu/about/directory/francois-halbach>`_ - DevOps Engineer
 
 
