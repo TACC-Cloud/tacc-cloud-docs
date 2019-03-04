@@ -75,25 +75,13 @@ TESTING
 
      .. code-block:: plaintext
 
-        {
-        "username": "$USERNAME",
-        "internalUsername": null,
-        "permission": {
-          "read": true,
-          "write": false
-        },
-        "_links": {
-          "self": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID/pems/$USERNAME"
-          },
-          "parent": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID"
-          },
-          "profile": {
-            "href": "https://agave.iplantc.org/profiles/v2/$USERNAME"
-          }
-        }
-        }
+        First, SSH to the host, cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access. If you are on Stampede2 and you are confident your key is correct, you can try the following steps:
+
+        Move you .ssh directory to .sshold
+        Log out and log back in
+        CAREFULLY add back any keys you need into your authorized_keys file 
+        Deleting the ~/.ssh directory will cause TACC’s scripts to regenerate that directory with the SSH keys it needs.     
+        
 |
 
 
@@ -109,17 +97,8 @@ TESTING
 
      .. code-block:: plaintext
 
-        # General grant
-        curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
-            -H "Content-Type: application/json" \
-            -X POST --data-binary '{"permission":"READ","username":"$USERNAME"}' \
-            https://agave.iplantc.org/jobs/v2/$JOB_ID/pems
+        Try SSHing to the system’s host with your SSH key or password. You will ensure the credentials are correct and MFA is not encountered. If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s definition for typos – particularly in the system’s name. There should be no trailing characters.  
 
-        # Custom url grant
-        curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
-            -H "Content-Type: application/json" \
-            -X POST --data-binary '{"permission":"READ"}' \
-            https://agave.iplantc.org/jobs/v2/$JOB_ID/pems/$USERNAME
 |
 
 .. container:: foldable
@@ -131,24 +110,7 @@ TESTING
 
      .. code-block:: plaintext
 
-        {
-        "username": "$USERNAME",
-        "internalUsername": null,
-        "permission": {
-          "read": true,
-          "write": false
-        },
-        "_links": {
-          "self": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID/pems/$USERNAME"
-          },
-          "parent": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID"
-          },
-          "profile": {
-            "href": "https://agave.iplantc.org/profiles/v2/$USERNAME"
-          }
-        }
-        }
+        We will likely need to install the package for you. Please head to the <link>Request Form page and send in a request.
+        
 |
 
