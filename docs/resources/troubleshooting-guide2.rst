@@ -1,9 +1,16 @@
 .. role:: raw-html-m2r(raw)
    :format: html
    
-=======
-TESTING
-=======
+=====================
+Troubleshooting Guide
+=====================
+
+
+
+
+Here are some first steps you can take based on some common issues users run into. 
+
+If you get through these steps and are still having issues, or are not able to do these steps, please email CICsupport@tacc.utexas.edu.
 
 
 
