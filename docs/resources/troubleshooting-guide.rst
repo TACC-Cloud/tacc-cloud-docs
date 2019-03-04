@@ -12,7 +12,7 @@ Here are some first steps you can take based on some common issues users run int
 
 If you get through these steps and are still having issues, or are not able to do these steps, please email CICsupport@tacc.utexas.edu.
 
-.. code-block:: plaintext
+
 
 
 .. container:: foldable
@@ -26,15 +26,15 @@ If you get through these steps and are still having issues, or are not able to d
 
      .. code-block:: plaintext
 
-    The most common version of this error is: The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request. This error tends to stem from the SSH keys that the storage system is registered with. You can check your SSH keys with a couple of different tests:
+   The most common version of this error is: The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request. This error tends to stem from the SSH keys that the storage system is registered with. You can check your SSH keys with a couple of different tests:
 
-    1. Try to list files on this storage system
-    2. Try to manually SSH to the host of the storage system with your key
-    3. SSH to the host of the storage system, cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access.
-    Other things to check:
+       1. Try to list files on this storage system
+       2. Try to manually SSH to the host of the storage system with your key
+       3. SSH to the host of the storage system, cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access.
+       Other things to check:
 
-    1. Find the root dir in your storage system’s definition. SSH to the storage system’s host and make sure you can SSH to that root dir as yourself.
-    2. Check that there are no typos in your storage system definition. For example, make sure the host in your definition is the same host that your keys are on, and that your root dir is correct. 
+       1. Find the root dir in your storage system’s definition. SSH to the storage system’s host and make sure you can SSH to that root dir as yourself.
+       2. Check that there are no typos in your storage system definition. For example, make sure the host in your definition is the same host that your keys are on, and that your root dir is correct. 
 |
 
 .. container:: foldable
