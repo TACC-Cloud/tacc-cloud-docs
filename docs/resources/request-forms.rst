@@ -23,3 +23,14 @@ Request for Installation of JupyterHub Packages
 
 Please make sure you send a separate email per JupyterHub package request.
 
+---
+
+.. raw:: html
+
+   <a href="" download="TenantForm>
+      
+   </a>
+   
+   <a href="" download="HubForm>
+      
+   </a>
