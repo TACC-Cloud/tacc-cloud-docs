@@ -38,25 +38,12 @@ TESTING
 
      .. code-block:: plaintext
 
-        {
-        "username": "$USERNAME",
-        "internalUsername": null,
-        "permission": {
-          "read": true,
-          "write": false
-        },
-        "_links": {
-          "self": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID/pems/$USERNAME"
-          },
-          "parent": {
-            "href": "https://agave.iplantc.org/jobs/v2/$JOB_ID"
-          },
-          "profile": {
-            "href": "https://agave.iplantc.org/profiles/v2/$USERNAME"
-          }
-        }
-        }
+        Go to https://<tenant base url>/store and login with your credentials. If you cannot login, please contact CICsupport with one of the above methods. If you can login, Go to My Scriptions and click on the Client drop down box. If you do not see a client in this box titled “DefaultApplication”, run the following command on the command line:
+
+        curl -sku "<username>" -X POST -d "clientName=DefaultApplication" https://<tenant base url>/clients/v2
+
+        This will prompt you for your password. Once you’ve created this client, retry the action requiring your password from earlier.      
+        
 |
 
 
