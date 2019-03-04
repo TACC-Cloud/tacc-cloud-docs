@@ -15,7 +15,7 @@ TESTING
         :fa:`caret-right`
         **Show curl**
 
-     .. code-block:: shell
+     .. code-block:: plaintext
 
         # General grant
         curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
@@ -37,7 +37,7 @@ TESTING
         :fa:`caret-right`
         **Show json response**
 
-     .. code-block:: json
+     .. code-block:: plaintext
 
         {
         "username": "$USERNAME",
@@ -71,7 +71,7 @@ TESTING
         :fa:`caret-right`
         **Show curl**
 
-     .. code-block:: shell
+     .. code-block:: plaintext
 
         # General grant
         curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
@@ -93,7 +93,7 @@ TESTING
         :fa:`caret-right`
         **Show json response**
 
-     .. code-block:: json
+     .. code-block:: plaintext
 
         {
         "username": "$USERNAME",
@@ -127,7 +127,7 @@ TESTING
         :fa:`caret-right`
         **Show curl**
 
-     .. code-block:: shell
+     .. code-block:: plaintext
 
         # General grant
         curl -sk -H "Authorization: Bearer $ACCESS_TOKEN" \
@@ -149,7 +149,7 @@ TESTING
         :fa:`caret-right`
         **Show json response**
 
-     .. code-block:: json
+     .. code-block:: plaintext
 
         {
         "username": "$USERNAME",
