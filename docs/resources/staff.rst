@@ -7,7 +7,7 @@ TACC Cloud Staff
 
 `Joe Stubbs <https://www.tacc.utexas.edu/about/directory/joe-stubbs>`_ - Research Associate, Manager 
 
-`Richard Cardone <https://www.tacc.utexas.edu/about/directory/richard-cardone>`_ - Research Associate, Manager Research Engineering/Scientist Associate, Agave Technical Lead 
+`Richard Cardone <https://www.tacc.utexas.edu/about/directory/richard-cardone>`_ - Research Engineering/Scientist Associate, Agave Technical Lead 
 
 
 `Steve Terry <https://www.tacc.utexas.edu/about/directory/steve-terry>`_ - Java Middleware And Web Developer
