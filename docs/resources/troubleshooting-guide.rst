@@ -8,11 +8,11 @@ Troubleshooting Guide
 
 
 
-Here are some first steps you can take based on some common issues users run into. 
+This guide explains how to troubleshoot some issues that users may face when using Agave or other TACC-Cloud resources. 
 
 If you get through these steps and are still having issues, or are not able to do these steps, please email CICsupport@tacc.utexas.edu.
 
-
+------
 
 
 .. container:: foldable
