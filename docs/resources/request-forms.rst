@@ -11,7 +11,7 @@ Please click on the links below to send in the corresponding requests. Leave any
 Request for OAuth New Tenant
 -----------------------------------
 
-`TENANT REQUEST EMAIL TEMPLATE<mailto:cic@consult.tacc.utexas.edu?cc=cicsupport@tacc.utexas.edu&Subject=Tenant%20Request:%20&body=Created%20Via%20Email%0d%0d-------%0d%0dYour %20Name:%0d%0d%0dTenant%20Name:%0d%0d%0dTenant%20URL%20:%0d%0d%0dTenant%20Owner%20Name:%0d%0d%Tenant%20Owner%20Email:%0d%0d%0dTenant%20Admin%20Accounts:%0d%0d%0dTenant%20Identity%20Provider:%0d%0d%0dService%20Capacity%20Needed%20(if%20any):%0d%0d%0dGrant%20or%20Funding%20Source%0d%0d%0dProject%20Description%20:%0d%0d%0dAdditional%20Services%20Needed%20(e.g.%20JupterHub)%0d%0d%0dOther%20Information:>`_
+`TENANT REQUEST EMAIL TEMPLATE <mailto:cic@consult.tacc.utexas.edu?cc=cicsupport@tacc.utexas.edu&Subject=Tenant%20Request:%20&body=Created%20Via%20Email%0d%0d-------%0d%0dYour %20Name:%0d%0d%0dTenant%20Name:%0d%0d%0dTenant%20URL%20:%0d%0d%0dTenant%20Owner%20Name:%0d%0d%Tenant%20Owner%20Email:%0d%0d%0dTenant%20Admin%20Accounts:%0d%0d%0dTenant%20Identity%20Provider:%0d%0d%0dService%20Capacity%20Needed%20(if%20any):%0d%0d%0dGrant%20or%20Funding%20Source%0d%0d%0dProject%20Description%20:%0d%0d%0dAdditional%20Services%20Needed%20(e.g.%20JupterHub)%0d%0d%0dOther%20Information:>`_
 
 Please make sure you send a separate email per tenant request.
 
