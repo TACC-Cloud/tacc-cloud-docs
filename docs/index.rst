@@ -25,12 +25,12 @@ TACC Cloud Papers, Projects & Partnerships
 ==========================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Papers Reference
    
    Research Papers & Projects <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/papers.rst>
    Partnerships <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/partnerships.rst>
-   Acknowledging & Citing Agave <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/citing-info.rst>
+   
    
 
 Get Help
@@ -44,7 +44,7 @@ We have a support team that is ready to help with questions regarding Agave and 
 
 **Slack:** https://tacc-cloud.slack.com/
 
-Just head to the #support channel once you get there. 
+Just head to the #support channel once you get to our Slack. 
 
 Indices and tables
 ==================
