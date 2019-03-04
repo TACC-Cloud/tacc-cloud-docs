@@ -19,6 +19,8 @@ Chameleon
 ---------
 Chameleon: a Scalable Production Testbed for Computer Science Research, K. Keahey, P. Riteau, D. Stanzione, T. Cockerill, J. Mambretti, P. Rad, P. Ruth, book chapter in "Contemporary High Performance Computing: From Petascale toward Exascale, Volume 3", Jeffrey Vetter ed., 2018
 
+.. raw:: html
+         <br><br>
 
 
 If you have any questions about citing us, please email CICsupport@tacc.utexas.edu
