@@ -7,7 +7,6 @@ TESTING
 
 .. code-block:: plaintext
 
-   jobs-pems-update -u $USERNAME -p READ_WRITE $JOB_ID
 
 .. container:: foldable
 
@@ -63,7 +62,7 @@ TESTING
 
 .. code-block:: plaintext
 
-   jobs-pems-update -u $USERNAME -p READ_WRITE $JOB_ID
+
 
 .. container:: foldable
 
@@ -119,7 +118,7 @@ TESTING
 
 .. code-block:: plaintext
 
-   jobs-pems-update -u $USERNAME -p READ_WRITE $JOB_ID
+
 
 .. container:: foldable
 
