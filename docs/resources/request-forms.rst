@@ -24,7 +24,7 @@ Please make sure you send a separate email per tenant request.
 Request for Installation of JupyterHub Packages
 -----------------------------------------------
 
-`JUPYTERHUB PACKAGE REQUEST EMAIL TEMPLATE <mailto:cic@consult.tacc.utexas.edu?cc=cicsupport@tacc.utexas.edu&Subject=JupyterHub%20Package%20Request:&body=Created%20Via%20Email%0d%0d-------%0d%0dYour%20Name:%0d%0d%0dYour%20Email:%0d%0d%0dTenant(s)%20to%20install%20packages%20for:%0d%0d%0dPackage%20Name%20and%20version:%0d%0d%0dHow%20it%20is%20installed%20(pip,%20conda,%20or%20other):%0d%0d%0dIf%20"other"%20installation%20type%20above,%20provide%20details:%0d%0d%0dHow%20to%20import%20package:>`_
+`JUPYTERHUB PACKAGE REQUEST TEMPLATE <mailto:cic@consult.tacc.utexas.edu?cc=cicsupport@tacc.utexas.edu&Subject=JupyterHub%20Package%20Request:&body=Created%20Via%20Email%0d%0d-------%0d%0dYour%20Name:%0d%0d%0dYour%20Email:%0d%0d%0dTenant(s)%20to%20install%20packages%20for:%0d%0d%0dPackage%20Name%20and%20version:%0d%0d%0dHow%20it%20is%20installed%20(pip,%20conda,%20or%20other):%0d%0d%0dIf%20"other"%20installation%20type%20above,%20provide%20details:%0d%0d%0dHow%20to%20import%20package:>`_
 
 .. raw:: html
 
