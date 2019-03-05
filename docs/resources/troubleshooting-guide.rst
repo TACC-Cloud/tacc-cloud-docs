@@ -123,7 +123,7 @@ If you get through these steps and are still having issues, or are not able to d
 
      .. code-block:: plaintext
 
-        We will likely need to install the package for you. Please head to the <link>Request Form page and send in a request.
+        We will likely need to install the package for you. Please head to the Request Forms page and send in a request.
         
 |
 
