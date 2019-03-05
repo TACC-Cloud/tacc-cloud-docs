@@ -46,9 +46,5 @@ We have a support team that is ready to help with questions regarding Agave and 
 
 Just head to the #support channel once you get to our Slack. 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+:ref:`search`
