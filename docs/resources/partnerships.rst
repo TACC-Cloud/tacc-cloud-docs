@@ -4,7 +4,8 @@
 ============  
 Partnerships
 ============
-Click on any of the links below to learn more about our partnerships. 
+
+**Click on any of the links below to learn more about our partnerships.**
 
 `3dem - NeuroNex <https://3dem.org/>`_ (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505281)
 
