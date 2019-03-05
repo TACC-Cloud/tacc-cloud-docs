@@ -5,7 +5,7 @@
 Partnerships
 ============
 
-**Click on any of the links below to learn more about our partnerships.**
+The TACC Cloud team works with companies, nonprofits, government agencies and other organizations to help achieve research goals surrounding cloud technology. Click on any of the links below to learn more about our partners.
 
 `3dem - NeuroNex <https://3dem.org/>`_ (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505281)
 
