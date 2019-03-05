@@ -19,7 +19,7 @@ TACC Cloud Staff
 `Cody Hammock <https://www.tacc.utexas.edu/about/directory/cody-hammock>`_ - Senior DevOps Engineer
 
 
-`Smruti Padhy <https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ - Research Associate/Engineering Scientist
+`Smruti Padhy <https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ - Research Engineering/Scientist Associate
 
 
 `Anagha Jamthe <https://www.tacc.utexas.edu/about/directory/anagha-jamthe>`_ - Research Engineering/Scientist Associate
