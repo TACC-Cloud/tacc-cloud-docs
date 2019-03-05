@@ -6,7 +6,7 @@
 Request Forms
 =============
 
-Please click on the links below to send in the corresponding requests. Leave any information you do not know blank, and we will contact you for additional details if needed. You have the option of filling out an email template or downloading the form and emailing as an attachment. 
+Please click on the links below to send in the corresponding requests. Leave any information you do not know blank, and we will contact you for additional details if needed. You have the option of filling out an email template or downloading the form and emailing as an attachment. If you choose to email the form as an attachment, please send to CICsupport@tacc.utexas.edu. 
 
 Request for OAuth New Tenant
 -----------------------------------
