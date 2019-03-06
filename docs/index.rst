@@ -15,7 +15,7 @@ The TACC Cloud APIs include Agave API, offering Science-as-a-Service; the Abaco 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
    Agave <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
    Chameleon <https://chameleoncloud.readthedocs.io/en/latest/>
-   JetStream <https://jetstream-cloud.org/>
+   JetStream <https://iujetstream.atlassian.net/wiki/spaces/JWT/overview>
    
    Troubleshooting Guide <https://tacc-cloud.readthedocs.io/en/latest/resources/troubleshooting-guide.html>
    Request Forms <https://tacc-cloud.readthedocs.io/en/latest/resources/request-forms.html>
