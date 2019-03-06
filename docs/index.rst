@@ -39,7 +39,7 @@ Get Help
 
 Additional information and training resources are available at the `TACC User Portal <https://portal.tacc.utexas.edu/>`_ and the `TACC Learning Center <https://learn.tacc.utexas.edu/>`_.
 
-We have a support team that is ready to help with questions regarding Agave and Abaco. You can contact our support team either by submitting a ticket with the link above, or via email or Slack.
+We have a support team that is ready to help with questions regarding Agave and Abaco. You can contact our support team either by submitting a ticket with the TACC User Portal link above, or via email or Slack.
 
 **Email:** CICsupport@tacc.utexas.edu
 
