@@ -25,7 +25,7 @@ If you get through these steps and are still having issues, or are not able to d
      .. code-block:: plaintext
 
         The most common version of this error is "The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request". 
-        This error tends to stem from the SSH keys that the storage system is registered with. You can check your SSH keys with a couple of different tests:
+        This error tends to stem from the SSH keys that the storage system is registered with. If you have the ability to SSH to the storage system's host, you can check your SSH keys with a couple of different tests:
 
        1. Try to list files on this storage system
        2. Try to manually SSH to the host of the storage system with your key
@@ -87,7 +87,7 @@ If you get through these steps and are still having issues, or are not able to d
 
      .. code-block:: plaintext
 
-        First, SSH to the host and cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access. If you are on Stampede2 and you are confident your key is correct, you can try the following steps:
+        If you have the ability to SSH to the system's host, first SSH to the host and cd to ~.ssh/authorized_keys. Make sure the key is in this file, is correct, and has no group access. If you are on Stampede2 and you are confident your key is correct, you can try the following steps:
 
         Move you .ssh directory to .sshold
         Log out and log back in
@@ -109,7 +109,7 @@ If you get through these steps and are still having issues, or are not able to d
 
      .. code-block:: plaintext
 
-        Try SSHing to the system’s host with your SSH key or password. This will ensure the credentials are correct and MFA is not encountered. 
+        If you have the ability to SSH to the system's host, try SSHing to the system’s host with your SSH key or password. This will ensure the credentials are correct and MFA is not encountered. 
         If that doesn’t work, your SSH key or password is likely the problem. Otherwise, check your system’s definition for typos – particularly in the system’s name. There should be no trailing characters.  
 
 |
