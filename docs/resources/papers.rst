@@ -23,7 +23,7 @@ JetStream
 ---------
 Proctor, W. C., Packard, M., Jamthe, A., Cardone, R., and Stubbs, J. "Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
 
-W. Cyrus Proctor, Mike Packard, Anagha Jamthe, Richard Cardone, Joseph Stubbs
+
 
 
 
