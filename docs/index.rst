@@ -16,9 +16,9 @@ The TACC Cloud APIs include Agave API, offering Science-as-a-Service; the Abaco 
    Agave <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
    Chameleon <https://chameleoncloud.readthedocs.io/en/latest/>
    
-   Troubleshooting Guide <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/troubleshooting-guide.html>
-   Request Forms <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/request-forms.html>
-   TACC Cloud Staff <https://tacc-cloud.readthedocs.io/en/latest/tacc-cloud-docs/docs/resources/staff.html>
+   Troubleshooting Guide <https://tacc-cloud.readthedocs.io/en/latest/resources/troubleshooting-guide.html>
+   Request Forms <https://tacc-cloud.readthedocs.io/en/latest/resources/request-forms.html>
+   TACC Cloud Staff <https://tacc-cloud.readthedocs.io/en/latest/resources/staff.html>
    
 
 TACC Cloud Papers, Projects & Partnerships
