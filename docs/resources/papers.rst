@@ -17,11 +17,11 @@ Dooley, Rion, Steven R. Brandt, and John Fonner. "The Agave Platform: An Open, S
 
 Chameleon
 ---------
-Chameleon: a Scalable Production Testbed for Computer Science Research, K. Keahey, P. Riteau, D. Stanzione, T. Cockerill, J. Mambretti, P. Rad, P. Ruth, book chapter in "Contemporary High Performance Computing: From Petascale toward Exascale, Volume 3", Jeffrey Vetter ed., 2018
+Keahey, K., Riteau, P., Stanzione, D., Cockerill, T., Mambretti, J., Rad, P., Ruth, P. Chameleon: a Scalable Production Testbed for Computer Science Research, book chapter in "Contemporary High Performance Computing: From Petascale toward Exascale, Volume 3", Jeffrey Vetter ed., 2018
 
 JetStream
 ---------
-Proctor, W. C., Packard, M., Jamthe, A., Cardone, R., and Stubbs, J. "Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
+Stewart, C.A., Cockerill, T.M., Foster, I., Hancock, D., Merchant, N., Skidmore, E., Stanzione, D., Taylor, J., Tuecke, S., Turner, G., Vaughn, M., and Gaffney, N.I., Jetstream: a self-provisioned, scalable science and engineering cloud environment. 2015, In Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure. St. Louis, Missouri.  ACM: 2792774.  p. 1-8. http://dx.doi.org/10.1145/2792745.2792774 
 
 
 
