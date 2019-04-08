@@ -27,7 +27,7 @@ The TACC Cloud team works with companies, nonprofits, government agencies and ot
 
 `Planet Texas 2050/Bridging Barriers <https://bridgingbarriers.utexas.edu/>`_
 
-`Project Echo (NASA) <https://ecco.tacc.utexas.edu/>`_ (https://www.nasa.gov/centers/langley/about/project-echo.html)
+`Project ECCO <https://ecco.tacc.utexas.edu/>`_ 
 
 `SD2E <https://sd2e.org/>`_
 
