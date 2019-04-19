@@ -5,15 +5,15 @@
 **Papers & Projects**
 =====================
    
-Users of our services are encouraged to cite Agave, Abaco and Chameleon in publications that result from using TACC Clooud resources. Please use the following reference(s):
+Users of our services are encouraged to cite Tapis (Agave), Abaco and Chameleon in publications that result from using TACC Clooud resources. Please use the following reference(s):
 
 Abaco
 -----
 Stubbs J., Vaughn M., and Looney J. 2018. Rapid Development of Scalable, Distributed Computation with Abaco. Proceedings of the 10th International Workshop on Science Gateways(2018).
 
-Agave
+Tapis (Agave)
 -----
-Dooley, Rion, Steven R. Brandt, and John Fonner. "The Agave Platform: An Open, Science-as-a-Service Platform for Digital Science." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
+Dooley, Rion, Steven R. Brandt, and John Fonner. "The Tapis (Agave) Platform: An Open, Science-as-a-Service Platform for Digital Science." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
 
 Chameleon
 ---------
