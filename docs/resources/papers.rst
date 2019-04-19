@@ -13,7 +13,7 @@ Stubbs J., Vaughn M., and Looney J. 2018. Rapid Development of Scalable, Distrib
 
 Tapis (Agave)
 -----
-Dooley, Rion, Steven R. Brandt, and John Fonner. "The Tapis (Agave) Platform: An Open, Science-as-a-Service Platform for Digital Science." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
+Dooley, Rion, Steven R. Brandt, and John Fonner. "The Agave Platform: An Open, Science-as-a-Service Platform for Digital Science." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
 
 Chameleon
 ---------
