@@ -6,14 +6,14 @@
 TACC Cloud APIs and Resources
 =============================
 
-The TACC Cloud APIs include Agave API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and allocations.
+The TACC Cloud APIs include Tapis (Agave) API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and allocations.
 
 .. toctree::
    :maxdepth: 7
    :caption: API Reference
 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
-   Agave <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
+   Tapis (Agave) <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
    Chameleon <https://chameleoncloud.readthedocs.io/en/latest/>
    JetStream <https://iujetstream.atlassian.net/wiki/spaces/JWT/overview>
    
@@ -39,7 +39,7 @@ Get Help
 
 Additional information and training resources are available at the `TACC User Portal <https://portal.tacc.utexas.edu/>`_ and the `TACC Learning Center <https://learn.tacc.utexas.edu/>`_.
 
-We have a support team that is ready to help with questions regarding Agave and Abaco. You can contact our support team either by submitting a ticket with the TACC User Portal link above, or via email or Slack.
+We have a support team that is ready to help with questions regarding Tapis (Agave) and Abaco. You can contact our support team either by submitting a ticket with the TACC User Portal link above, or via email or Slack.
 
 **Email:** CICsupport@tacc.utexas.edu
 
