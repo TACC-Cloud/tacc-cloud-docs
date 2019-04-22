@@ -6,7 +6,15 @@
 TACC Cloud APIs and Resources
 =============================
 
-The TACC Cloud APIs include Tapis (Agave) API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and allocations.
+The Cloud and Interactive Computing Group has been expanding the capabilities of its Science-as-a-service API platform,
+including new support for streaming/sensor data and a Version 3 of the primary APIs. We refer to this new effort as
+the Tapis Platform. More information on Project Tapis coming soon!
+
+The TACC Cloud APIs include Tapis (Agave) API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are
+functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and
+allocations.
+
+
 
 .. toctree::
    :maxdepth: 7
