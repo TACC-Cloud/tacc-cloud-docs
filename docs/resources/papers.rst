@@ -5,7 +5,7 @@
 **Papers & Projects**
 =====================
    
-Users of our services are encouraged to cite Tapis (Agave), Abaco and Chameleon in publications that result from using TACC Clooud resources. Please use the following reference(s):
+Users of our services are encouraged to cite Tapis (Agave), Abaco and Chameleon in publications that result from using TACC Cloud resources. Please use the following reference(s):
 
 Abaco
 -----
