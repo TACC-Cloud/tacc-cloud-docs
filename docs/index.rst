@@ -21,7 +21,7 @@ allocations.
    :caption: API Reference
 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
-   Tapis (Agave) <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
+   Tapis <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
    Chameleon <https://chameleoncloud.readthedocs.io/en/latest/>
    JetStream <https://iujetstream.atlassian.net/wiki/spaces/JWT/overview>
    
