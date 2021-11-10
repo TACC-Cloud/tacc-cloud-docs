@@ -13,7 +13,7 @@ Abaco
 -----
 Stubbs J., Vaughn M., and Looney J. 2018. Rapid Development of Scalable, Distributed Computation with Abaco. Proceedings of the 10th International Workshop on Science Gateways(2018).
 
-Tapis (Agave)
+Tapis
 -----
 Dooley, Rion, Steven R. Brandt, and John Fonner. "The Agave Platform: An Open, Science-as-a-Service Platform for Digital Science." Proceedings of the Practice and Experience on Advanced Research Computing. ACM, 2018.
 
