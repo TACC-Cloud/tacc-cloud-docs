@@ -27,7 +27,7 @@ Stewart, C.A., Cockerill, T.M., Foster, I., Hancock, D., Merchant, N., Skidmore,
 
 **Papers**
 
-Tapis Reference
+Tapis Reference 
 ---------
 Joe Stubbs, Richard Cardone, Mike Packard, Anagha Jamthe, Smruti Padhy, Steve Terry, Julia Looney, Joseph Meiring, Steve Black, Maytal Dahan, Sean Cleveland†, Gwen Jacobs. Tapis: An API Platform for Reproducible, Distributed Computational Research. Future of Information and Communications Conference (FICC) 2021. 29-30 April 2021 in Vancouver, Canada.
 
