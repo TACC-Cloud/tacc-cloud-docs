@@ -10,7 +10,7 @@ The Cloud and Interactive Computing Group has been expanding the capabilities of
 including new support for streaming/sensor data and a Version 3 of the primary APIs. We refer to this new effort as
 the Tapis Platform. More information on Project Tapis coming soon!
 
-The TACC Cloud APIs include Tapis (Agave) API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are
+The TACC Cloud APIs include Tapis API, offering Science-as-a-Service; the Abaco API utilizes reactors, which are
 functions-as-a-service adapted to the HPC use case; and TAS, the TACC Allocation System which handles identity and
 allocations.
 
@@ -47,7 +47,7 @@ Get Help
 
 Additional information and training resources are available at the `TACC User Portal <https://portal.tacc.utexas.edu/>`_ and the `TACC Learning Center <https://learn.tacc.utexas.edu/>`_.
 
-We have a support team that is ready to help with questions regarding Tapis (Agave) and Abaco. You can contact our support team via email or Slack.
+We have a support team that is ready to help with questions regarding Tapis and Abaco. You can contact our support team via email or Slack.
 
 **Email:** CICsupport@tacc.utexas.edu
 

@@ -19,17 +19,10 @@ TACC Cloud Staff
 
 `Anagha Jamthe <https://www.tacc.utexas.edu/about/directory/anagha-jamthe>`_ 
 
-`Brandi Kuritz <https://www.tacc.utexas.edu/about/directory/brandi-kuritz>`_ 
-
-`Julia Looney <https://www.tacc.utexas.edu/about/directory/julia-looney>`_ 
-
 `Mike Packard <https://www.tacc.utexas.edu/about/directory/mike-packard>`_ 
 
 `Smruti Padhy <https://www.tacc.utexas.edu/about/directory/smruti-padhy>`_ 
 
-`Marjo Poindexter <https://www.tacc.utexas.edu/about/directory/marjo-poindexter>`_ 
-
-`Steve Terry <https://www.tacc.utexas.edu/about/directory/steve-terry>`_ 
 
 
 
