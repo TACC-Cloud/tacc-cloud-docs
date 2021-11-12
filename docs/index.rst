@@ -37,8 +37,8 @@ TACC Cloud Papers, Projects & Partnerships
    :maxdepth: 2
    :caption: Papers Reference
    
-   Research Papers & Projects <https://tacc-cloud.readthedocs.io/en/latest/resources/papers.html>
-   Partnerships <https://tacc-cloud.readthedocs.io/en/latest/resources/partnerships.html>
+   resources/papers
+   resources/partnerships
    
    
 
