@@ -188,5 +188,5 @@ todo_include_todos = True
 
 
 def setup(app):
-    app.add_javascript('custom.js')
-    app.add_stylesheet('foldable.css')
+    app.add_js_file('custom.js')
+    app.add_css_file('foldable.css')
