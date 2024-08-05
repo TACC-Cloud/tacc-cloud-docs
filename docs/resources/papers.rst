@@ -81,70 +81,80 @@ Additional Papers
   | Practice and Experience in Advanced Research Computing, 4 pages, 2022. 
   | Journal article; `https://doi.org/10.1145/3491418.3535142 <https://doi.org/10.1145/3491418.3535142>`_
 
-  | 14) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.* 
+  | 14) *Round Trip: An Automated Pipeline for Experimental Design, Execution, and AnalysisClick to copy article link*
+  | Daniel Bryce, Robert P. Goldman, Matthew DeHaven, Jacob Beal, Bryan Bartley, Tramy T. Nguyen, Nicholas Walczak, Mark Weston, George Zheng, Josh Nowak, Peter Lee, Joe Stubbs, Niall Gaffney, Matthew W. Vaughn, Chris John Myers, Robert C. Moseley, Steven Haase, Anastasia Deckard, Bree Cummins, Nick Leiby
+  | ACS Synthetic Biology Vol 11/Issue 2
+  | Journal article; `https://pubs.acs.org/doi/10.1021/acssynbio.1c00305 <https://pubs.acs.org/doi/10.1021/acssynbio.1c00305>`_
+
+  | 15) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.* 
   | Cleveland, Sean B; Jamthe, Anagha; Padhy, Smruti; Stubbs, Joe; Terry, Steven; Looney, Julia; Cardone, Richard; Packard, Michael; Dahan, Maytal; Jacobs, Gwen A
   | Concurrency and Computation: Practice and Experience. 2021-10-10.
   | Journal article; `DOI: 10.1002/cpe.6103 <https://onlinelibrary.wiley.com/doi/10.1002/cpe.6103>`_
   | Part of ISSN: 1532-0626
   | Part of ISSN: 1532-0634
 
-  | 15) *Prediction of whole-cell transcriptional response with machine learning.* 
+  | 16) *Prediction of whole-cell transcriptional response with machine learning.* 
   | Eslami, Mohammed; Borujeni, Amin Espah; Eramian, Hamed; Weston, Mark; Zheng, George; Urrutia, Joshua; Corbet, Carolyn; Becker, Diveena; Maschhoff, Paul; Clowers, Katie
   | Bioinformatics. 2021-09-27
   | Journal article; `DOI: 10.1093/bioinformatics/btab676 <https://academic.oup.com/bioinformatics/article/38/2/404/6375941>`_
   | Part of ISSN: 1367-4803
   | Part of ISSN: 1460-2059
 
-  | 16) *Building Tapis v3 Streams API Support for Real-Time Streaming Data Event-Driven Workflows.*
+  | 17) *Building Tapis v3 Streams API Support for Real-Time Streaming Data Event-Driven Workflows.*
   | Smruti Padhy, Anagha Jamthe, Sean B. Cleveland, Jack A. Smith, Joe Stubbs, Christian Garcia, Michael Packard, Steve Terry, Julia Looney, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs
   | Practice and Experience in Advanced Research Computing. 2021-07-17.
   | Conference paper; `DOI: 10.1145/3437359.3465567 <https://doi.org/10.1145/3437359.3465567>`_
 
-  | 17) *Real-World, Self-Hosted Kubernetes Experience*
+  | 18) *Real-World, Self-Hosted Kubernetes Experience*
   | Michael Packard, Joe Stubbs, Justin Drake, and Christian Garcia
   | Practice and Experience in Advanced Research Computing. 2021-07-17
   | Conference paper; `DOI: 10.1145/3437359.3465603 <https://dl.acm.org/doi/10.1145/3437359.3465603>`_
 
-  | 18) *Sustainability in the Tapis Framework.*
+  | 19) *Sustainability in the Tapis Framework.*
   | J Stubbs, R Cardone, S Cleveland, G Jacobs, M Packard, A Jamthe, S Padhy, S Black, S Terry, J Looney, J Meiring, M Dahan
   | Proceedings of the 54th Hawaii International Conference on System Sciences. 2021
-  | Conference Paper; `DOI: 10.24251/hicss.2021.874 <https://www.researchgate.net/publication/348480232_Sustainability_in_the_Tapis_Framework>`_
+  | Conference paper; `DOI: 10.24251/hicss.2021.874 <https://www.researchgate.net/publication/348480232_Sustainability_in_the_Tapis_Framework>`_
 
-  | 19) *Tapis API Development with Python: Best Practices In Scientific REST API Implementation.*
+  | 20) *Tapis API Development with Python: Best Practices In Scientific REST API Implementation.*
   | Sean B. Cleveland, Anagha Jamthe, Smruti Padhy, Joe Stubbs, Michael Packard, Julia Looney, Steve Terry, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs
   | Practice and Experience in Advanced Research Computing. 2020-07-26
   | Conference paper; `DOI: 10.1145/3311790.3396647 <https://dl.acm.org/doi/abs/10.1145/3311790.3396647>`_
 
-  | 20) *SSH-Backed API Performance Case Study.*
+  | 21) *Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications.*
+  | Joe Stubbs, Suresh Marru, Daniel Mejia, Daniel S. Katz, Kyle Chard, Maytal Dahan, Marlon Pierce, Michael Zentner
+  | PEARC '20: Practice and Experience in Advanced Research Computing 2020: Catch the Wave
+  | Conference paper; `https://doi.org/10.1145/3311790.3400848 <https://doi.org/10.1145/3311790.3400848>`_
+
+  | 22) *SSH-Backed API Performance Case Study.*
   | Anagha J, Packard M, Stubbs J, Curbelo G, Shapi R, and Chalhoub E
   | Benchmarking, Measuring, and Optimizing. 2020.
   | Book chapter; `DOI: 10.1007/978-3-030-49556-5_27 <https://link.springer.com/chapter/10.1007/978-3-030-49556-5_27>`_
   | Part of ISSN: 0302-9743
   | Part of ISSN: 1611-3349
 
-  | 21) *Scientific Data Annotation and Dissemination: Using the ‘Ike Wai Gateway to Manage Research Data.*
+  | 23) *Scientific Data Annotation and Dissemination: Using the ‘Ike Wai Gateway to Manage Research Data.*
   | Cleveland, Sean B and Geis, Jennifel Jacobs
   | Practice and Experience in Advanced Research Computing, 2020.
-  | Conference Paper; `https://doi.org/10.1145/3311790.3396661 <https://doi.org/10.1145/3311790.3396661>`_
+  | Conference paper; `https://doi.org/10.1145/3311790.3396661 <https://doi.org/10.1145/3311790.3396661>`_
 
-  | 22) *Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform.*
+  | 24) *Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform.*
   | Powell J, Stubbs J, Cleveland S, Pierce S and Daniels M
   | Gateways 2019.
 
-  | 23) *Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure.*
+  | 25) *Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure.*
   | Cleveland S, Jamthe A, Padhy S, Stubbs J, Powell H, Daniels M, Pierce S, and Jacobs G
   | Gateways 2019.
-  | Journal Article; `http://dx.doi.org/10.26153/tsw/11286 <http://dx.doi.org/10.26153/tsw/11286>`_
+  | Journal article; `http://dx.doi.org/10.26153/tsw/11286 <http://dx.doi.org/10.26153/tsw/11286>`_
 
-  | 24) *Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond.*
+  | 26) *Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond.*
   | Proceedings of the Practice and Experience on Advanced Research Computing. 2018-07-22
   | Conference paper; `DOI: 10.1145/3219104.3219151 <https://dl.acm.org/doi/10.1145/3219104.3219151>`_
 
-  | 25) *Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud.*
+  | 27) *Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud.*
   | Proceedings of the Practice and Experience on Advanced Research Computing. 2018-07-22
   | Conference paper; `DOI: 10.1145/3219104.3219131 <https://dl.acm.org/doi/10.1145/3219104.3219131>`_
 
-  | 26) *Distributed Systems of Microservices Using Docker and Serfnode.*
+  | 28) *Distributed Systems of Microservices Using Docker and Serfnode.*
   | J. Stubbs, W. Moreira and R. Dooley
   | 7th International Workshop on Science Gateways (IWSG). 2015-06.
   | Conference paper; `DOI: 10.1109/iwsg.2015.16 <https://ieeexplore.ieee.org/document/7217926>`_
