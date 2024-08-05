@@ -41,56 +41,89 @@ Additional Papers
   | PEARC’23.
   | Journal article; DOI: 10.1145/3569951.3593609. ACM 
 
-  | 6) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.* 
+  | 6) *Tapis Pods Service Exploration and Initial Performance Analysis.*
+  | Garcia, Christian; Stubbs, Joe; Cardone, Richard; Freeman, Nathan
+  | Gateways 23. DOI:10.5281/zenodo.10034631
+  | `<https://zenodo.org/doi/10.5281/zenodo.10034631>`_
+
+  | 7) *Machine Learning Hub for Tapis.*
+  | Indrakusuma, Dhanny, Freeman, Nathan, Stubbs, Joe.
+  | Gateways 23. `https://zenodo.org/doi/10.5281/zenodo.10034631 <https://zenodo.org/doi/10.5281/zenodo.10034631>`_ (poster)
+
+  | 8) *Custom Cost, Loss, And Reward Functions to Train Regression Models for Estimating Execution Resources using HARP.*
+  | M. S. Vallabhajosyula, R. Ramnath, J. Stubbs
+  | Gateways 23. `https://zenodo.org/doi/10.5281/zenodo.10034631 <https://zenodo.org/doi/10.5281/zenodo.10034631>`_ (poster)
+
+  | 9) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.* 
   | Cleveland, Sean B; Jamthe, Anagha; Padhy, Smruti; Stubbs, Joe; Terry, Steven; Looney, Julia; Cardone, Richard; Packard, Michael; Dahan, Maytal; Jacobs, Gwen A
   | Concurrency and Computation: Practice and Experience. 2021-10-10.
   | Journal article; `DOI: 10.1002/cpe.6103 <https://onlinelibrary.wiley.com/doi/10.1002/cpe.6103>`_
   | Part of ISSN: 1532-0626
   | Part of ISSN: 1532-0634
 
-  | 7) *Prediction of whole-cell transcriptional response with machine learning.* 
+  | 10) *Extending Tapis Workflow Management Framework with Elastic Google Cloud Distributed System using CloudyCluster by Omnibond.*
+  | E. Lam, S. Cleveland, R. Cardone, G. A. Jacobs, B. Wilson, C. Mcknight, J. Stubbs
+  | Practice and Experience in Advanced Research Computing, 1 page, 2022. `https://doi.org/10.1145/3491418.3535158 <https://doi.org/10.1145/3491418.3535158>`_
+
+  | 11) *Prediction of whole-cell transcriptional response with machine learning.* 
   | Eslami, Mohammed; Borujeni, Amin Espah; Eramian, Hamed; Weston, Mark; Zheng, George; Urrutia, Joshua; Corbet, Carolyn; Becker, Diveena; Maschhoff, Paul; Clowers, Katie
   | Bioinformatics. 2021-09-27
   | Journal article; `DOI: 10.1093/bioinformatics/btab676 <https://academic.oup.com/bioinformatics/article/38/2/404/6375941>`_
   | Part of ISSN: 1367-4803
   | Part of ISSN: 1460-2059
 
-  | 8) *Building Tapis v3 Streams API Support for Real-Time Streaming Data Event-Driven Workflows.*
+  | 12) *Building Tapis v3 Streams API Support for Real-Time Streaming Data Event-Driven Workflows.*
   | Smruti Padhy, Anagha Jamthe, Sean B. Cleveland, Jack A. Smith, Joe Stubbs, Christian Garcia, Michael Packard, Steve Terry, Julia Looney, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs
   | Practice and Experience in Advanced Research Computing. 2021-07-17.
   | Conference paper; `DOI: 10.1145/3437359.3465567 <https://doi.org/10.1145/3437359.3465567>`_
 
-  | 9) *Real-World, Self-Hosted Kubernetes Experience*
+  | 13) *Real-World, Self-Hosted Kubernetes Experience*
   | Michael Packard, Joe Stubbs, Justin Drake, and Christian Garcia
   | Practice and Experience in Advanced Research Computing. 2021-07-17
   | Conference paper; `DOI: 10.1145/3437359.3465603 <https://dl.acm.org/doi/10.1145/3437359.3465603>`_
 
-  | 10) *Sustainability in the Tapis Framework.*
+  | 14) *Using Containers and Tapis to Structure Portable, Composable and Reproducible Climate Science Workflows.*
+  | M. Dodge II, S. Cleveland, G. A. Jacobs
+  | Practice and Experience in Advanced Research Computing, 2 Pages, 2022. `https://doi.org/10.1145/3491418.3535126 <https://doi.org/10.1145/3491418.3535126>`_
+
+  | 15) *Experience Migrating a Pipeline for the C-MĀIKI gateway from Tapis v2 to Tapis v3.*
+  | Y. C. Wong, S. B. Cleveland, G. A. Jacobs
+  | Practice and Experience in Advanced Research Computing, 4 pages, 2022. `https://doi.org/10.1145/3491418.3535139 <https://doi.org/10.1145/3491418.3535139>`_
+
+  | 16) *Prediction of whole-cell transcriptional response with machine learning.*
+  | M. Eslami, A. E. Borujeni, H. Eramian, M. Weston, G. Zheng, J. Urrutia, C. Corbet, D. Becker, P. Maschhoff, K. Clowers, et al.
+  | Bioinformatics, vol. 38, no. 2, pp. 404-409, Oxford University Press, 2022. `https://doi.org/10.1093/bioinformatics/btab676 <https://doi.org/10.1093/bioinformatics/btab676>`_
+
+  | 17) *A Design Pattern for Recoverable Job Management.*
+  | R. Cardone, J. Stubbs, S. Black, C. Garcia, A. Jamthe, M. Packard, S. Padhy
+  | Practice and Experience in Advanced Research Computing, 4 pages, 2022. `https://doi.org/10.1145/3491418.3535136 <https://doi.org/10.1145/3491418.3535136>`_
+
+  | 18) *Sustainability in the Tapis Framework.*
   | J Stubbs, R Cardone, S Cleveland, G Jacobs, M Packard, A Jamthe, S Padhy, S Black, S Terry, J Looney, J Meiring, M Dahan
   | Proceedings of the 54th Hawaii International Conference on System Sciences. 2021
   | Conference Paper; `DOI: 10.24251/hicss.2021.874 <https://www.researchgate.net/publication/348480232_Sustainability_in_the_Tapis_Framework>`_
 
-  | 11) *Tapis API Development with Python: Best Practices In Scientific REST API Implementation.*
+  | 19) *Tapis API Development with Python: Best Practices In Scientific REST API Implementation.*
   | Sean B. Cleveland, Anagha Jamthe, Smruti Padhy, Joe Stubbs, Michael Packard, Julia Looney, Steve Terry, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs
   | Practice and Experience in Advanced Research Computing. 2020-07-26
   | Conference paper; `DOI: 10.1145/3311790.3396647 <https://dl.acm.org/doi/abs/10.1145/3311790.3396647>`_
 
-  | 12) *SSH-Backed API Performance Case Study.*
+  | 20) *SSH-Backed API Performance Case Study.*
   | Anagha J, Packard M, Stubbs J, Curbelo G, Shapi R, and Chalhoub E
   | Benchmarking, Measuring, and Optimizing. 2020.
   | Book chapter; `DOI: 10.1007/978-3-030-49556-5_27 <https://link.springer.com/chapter/10.1007/978-3-030-49556-5_27>`_
   | Part of ISSN: 0302-9743
   | Part of ISSN: 1611-3349
 
-  | 13) *Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond.*
+  | 21) *Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond.*
   | Proceedings of the Practice and Experience on Advanced Research Computing. 2018-07-22
   | Conference paper; `DOI: 10.1145/3219104.3219151 <https://dl.acm.org/doi/10.1145/3219104.3219151>`_
 
-  | 14) *Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud.*
+  | 22) *Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud.*
   | Proceedings of the Practice and Experience on Advanced Research Computing. 2018-07-22
   | Conference paper; `DOI: 10.1145/3219104.3219131 <https://dl.acm.org/doi/10.1145/3219104.3219131>`_
 
-  | 15) *Distributed Systems of Microservices Using Docker and Serfnode.*
+  | 23) *Distributed Systems of Microservices Using Docker and Serfnode.*
   | J. Stubbs, W. Moreira and R. Dooley
   | 7th International Workshop on Science Gateways (IWSG). 2015-06.
   | Conference paper; `DOI: 10.1109/iwsg.2015.16 <https://ieeexplore.ieee.org/document/7217926>`_
@@ -103,6 +136,10 @@ Reference Paper
   | Conference paper; http://ceur-ws.org/Vol-2357/paper3.pdf
 
 Additional Papers
+  | 2) *Designing and Proving Properties of the Abaco Autoscaler Using TLA+*
+  | S. Padhy, J. Stubbs
+  | In the 13th Working Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 21), October 18-19, 2021. Published in Springer Lecture Notes in Computer Science (LNCS) series, vol. 13124, February 22, 2022. Springer, Cham. `https://doi.org/10.1007/978-3-030-95561-8_6 <https://doi.org/10.1007/978-3-030-95561-8_6>`_
+
   | 2) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.*
   | Concurrency and Computation: Practice and Experience. 2021-10-10.
   | Journal-article; DOI: 10.1002/cpe.6103
