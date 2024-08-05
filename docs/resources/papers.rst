@@ -49,12 +49,12 @@ Additional Papers
   | 7) *Machine Learning Hub for Tapis.*
   | Indrakusuma, Dhanny, Freeman, Nathan, Stubbs, Joe.
   | Gateways 23. 
-  | Journal article; `https://zenodo.org/doi/10.5281/zenodo.10034631 <https://zenodo.org/doi/10.5281/zenodo.10034631>`_ (poster)
+  | Journal article; `http://dx.doi.org/10.26153/tsw/48975 <http://dx.doi.org/10.26153/tsw/48975>`_ (poster)
 
   | 8) *Custom Cost, Loss, And Reward Functions to Train Regression Models for Estimating Execution Resources using HARP.*
   | Vallabhajosyula, Manikya Swathi, Ramnath, Rajiv, Stubbs, Joe
   | Gateways 23.
-  | Journal article; `https://zenodo.org/doi/10.5281/zenodo.10034631 <https://zenodo.org/doi/10.5281/zenodo.10034631>`_ (poster)
+  | Journal article; `https://zenodo.org/records/10055657 <https://zenodo.org/records/10055657>`_ (poster)
 
   | 9) *Extending Tapis Workflow Management Framework with Elastic Google Cloud Distributed System using CloudyCluster by Omnibond.*
   | Lam, Eric; Cleveland, Sean; Cardone, Richard; Jacobs, Gwen A; Wilson, Boyd; Mcknight, Cole; Stubbs, Joe;  
@@ -71,17 +71,12 @@ Additional Papers
   | Practice and Experience in Advanced Research Computing, 4 pages, 2022. 
   | Journal article; `https://doi.org/10.1145/3491418.3535139 <https://doi.org/10.1145/3491418.3535139>`_
 
-  | 12) *Prediction of whole-cell transcriptional response with machine learning.*
-  | Eslami, Mohammed; Borujeni, Amin Espah; Eramian, Hamed; Weston, Mark; Zheng, George; Urrutia, Joshua; Corbet, Carolyn; Becker, Diveena; Maschhoff, Paul; Clowers, Katie; et al.
-  | Bioinformatics, vol. 38, no. 2, pp. 404-409, Oxford University Press, 2022.
-  | Journal article; `https://doi.org/10.1093/bioinformatics/btab676 <https://doi.org/10.1093/bioinformatics/btab676>`_
-
-  | 13) *A Design Pattern for Recoverable Job Management.*
+  | 12) *A Design Pattern for Recoverable Job Management.*
   | Cardone, Richard; Stubbs, Joe; Black, Steve; Garcia, Christian; Jamthe, Anagha; Packard, Michael; Padhy, Smruti
   | Practice and Experience in Advanced Research Computing, 4 pages, 2022. 
   | Journal article; `https://doi.org/10.1145/3491418.3535136 <https://doi.org/10.1145/3491418.3535136>`_
 
-  | 14) *Workflow management for scientific research computing with Tapis Workflows: Architecture and Design Decisions behind Software for Research Computing Pipelines.*
+  | 13) *Workflow management for scientific research computing with Tapis Workflows: Architecture and Design Decisions behind Software for Research Computing Pipelines.*
   | Freeman, Nathan Dean; Stubbs, Joe; Cardone, Richard
   | Practice and Experience in Advanced Research Computing, 4 pages, 2022. 
   | Journal article; `https://doi.org/10.1145/3491418.3535142 <https://doi.org/10.1145/3491418.3535142>`_
@@ -130,6 +125,7 @@ Additional Papers
   | 21) *Scientific Data Annotation and Dissemination: Using the ‘Ike Wai Gateway to Manage Research Data.*
   | Cleveland, Sean B and Geis, Jennifel Jacobs
   | Practice and Experience in Advanced Research Computing, 2020.
+  | Conference Paper; `https://doi.org/10.1145/3311790.3396661 <https://doi.org/10.1145/3311790.3396661>`_
 
   | 22) *Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform.*
   | Powell J, Stubbs J, Cleveland S, Pierce S and Daniels M
@@ -138,6 +134,7 @@ Additional Papers
   | 23) *Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure.*
   | Cleveland S, Jamthe A, Padhy S, Stubbs J, Powell H, Daniels M, Pierce S, and Jacobs G
   | Gateways 2019.
+  | Journal Article; `http://dx.doi.org/10.26153/tsw/11286 <http://dx.doi.org/10.26153/tsw/11286>`_
 
   | 24) *Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond.*
   | Proceedings of the Practice and Experience on Advanced Research Computing. 2018-07-22
@@ -167,28 +164,28 @@ Additional Papers
 
   | 3) *Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure.*
   | Concurrency and Computation: Practice and Experience. 2021-10-10.
-  | Journal-article; `<DOI: 10.1002/cpe.6103>`_
+  | Journal-article; `DOI: 10.1002/cpe.6103 <DOI: 10.1002/cpe.6103>`_
   | Part of ISSN: 1532-0626
   | Part of ISSN: 1532-0634
 
   | 4) *Prediction of whole-cell transcriptional response with machine learning.*
   | Bioinformatics. 2021-09-27
-  | Journal article; `DOI: 10.1093/bioinformatics/btab676`_
+  | Journal article; `DOI: 10.1093/bioinformatics/btab676 <DOI: 10.1093/bioinformatics/btab676>`_
   | Part of ISSN: 1367-4803
   | Part of ISSN: 1460-2059
 
   | 5) *The Abaco Platform: A Performance and Scalability Study on the Jetstream Cloud.*
   | Advances in Parallel & Distributed Processing, and Applications. 2021
-  | Conference paper; `<DOI: 10.1007/978-3-030-69984-0_77>_`
+  | Conference paper; `DOI: 10.1007/978-3-030-69984-0_77 <DOI: 10.1007/978-3-030-69984-0_77>_`
   | Part of ISBN: 978-3-030-69984-0
 
   | 6) *Enabling Science with Functions-as-a-Service: New Features and Usage of the Abaco Platform.*
   | J. Stubbs, C. Garcia, J. Looney, A. Jamthe, M. Packard, M. Vaughn
-  | Gateways 20, Oct 3, 2020.
+  | Gateways 20, Oct 3, 2020. `https://par.nsf.gov/servlets/purl/10314665 <https://par.nsf.gov/servlets/purl/10314665>`_
 
   | 7) *GenApp, containers and Abaco.*
   | Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning). 2019-07-28.
-  | Conference paper; `<DOI: 10.1145/3332186.3332191>`_
+  | Conference paper; `DOI: 10.1145/3332186.3332191 <DOI: 10.1145/3332186.3332191>`_
 
 
 
