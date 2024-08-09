@@ -3,3 +3,4 @@ sphinx-rtd-theme
 sphinx-fontawesome
 recommonmark
 docutils==0.16
+build
