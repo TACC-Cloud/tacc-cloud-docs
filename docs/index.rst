@@ -17,7 +17,7 @@ allocations.
 
 
 .. toctree::
-   :maxdepth: 7
+   :maxdepth: 8
    :caption: API Reference
 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
