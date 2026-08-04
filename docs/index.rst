@@ -17,13 +17,14 @@ allocations.
 
 
 .. toctree::
-   :maxdepth: 7
+   :maxdepth: 8
    :caption: API Reference
 
    Abaco <https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/>
    Tapis <https://tacc-cloud.readthedocs.io/projects/agave/en/latest/>
    Chameleon <https://chameleoncloud.readthedocs.io/en/latest/>
    JetStream <https://iujetstream.atlassian.net/wiki/spaces/JWT/overview>
+   TMS <https://tms-documentation.readthedocs.io/en/latest/#>
    
    Troubleshooting Guide <https://tacc-cloud.readthedocs.io/en/latest/resources/troubleshooting-guide.html>
    Request Forms <https://tacc-cloud.readthedocs.io/en/latest/resources/request-forms.html>
