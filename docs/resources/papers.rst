@@ -207,6 +207,10 @@ JetStream
 ---------
 Stewart, C.A., Cockerill, T.M., Foster, I., Hancock, D., Merchant, N., Skidmore, E., Stanzione, D., Taylor, J., Tuecke, S., Turner, G., Vaughn, M., and Gaffney, N.I., Jetstream: a self-provisioned, scalable science and engineering cloud environment. 2015, In Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure. St. Louis, Missouri.  ACM: 2792774.  p. 1-8. http://dx.doi.org/10.1145/2792745.2792774 
 
+TMS
+-----
+Richard Cardone, Steve Black, and Joe Stubbs. "Trust Manager System for Distributed Computing Infrastructure." International Workshop on Science Gateways (IWSG). London, UK. 2025.
+
 .. raw:: html
          <br><br>
 
